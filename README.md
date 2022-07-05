@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Upendra8
-- 👀 I’m interested Data Science
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently Studying ECE final year in Ragiv Gandhi University of Knowledge and Technology
 - 💞️ I’m looking for an Internship in Data Science 
 - I am currently learning Data Science Courses on my own 
